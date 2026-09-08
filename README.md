@@ -76,4 +76,4 @@ and can be prioritised independently.
 
 ## License
 
-To be decided.
+GPL-3.0 — see LICENSE.
