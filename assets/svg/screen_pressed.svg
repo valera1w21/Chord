@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="80" viewBox="0 0 72 80">
+<title>Экран (не показываю) — pressed</title>
+<circle cx="36" cy="28" r="28" fill="#202327"/>
+<g transform="translate(25 17) scale(0.916667)"><g fill="none" stroke="#b9bfc6" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="12.5" rx="2"/><path d="M12 16.5V20M8 20H16"/></g></g>
+<text x="36" y="75.6" text-anchor="middle" font-family="Inter, 'Segoe UI', sans-serif" font-size="12" fill="#9aa1a9">Экран</text>
+</svg>

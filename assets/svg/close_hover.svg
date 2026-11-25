@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="32" viewBox="0 0 44 32">
+<title>Закрыть — hover</title>
+<rect width="44" height="32" rx="6" fill="#c7685a"/>
+<path d="M18 12.5L26 20.5M26 12.5L18 20.5" fill="none" stroke="#fdf3f1" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

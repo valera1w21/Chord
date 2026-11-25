@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="80" viewBox="0 0 72 80">
+<title>Микрофон (выключен) — hover</title>
+<circle cx="36" cy="28" r="28" fill="#4a302e"/>
+<g transform="translate(25 17) scale(0.916667)"><defs><mask id="cut" maskUnits="userSpaceOnUse" x="-2" y="-2" width="28" height="28"><rect x="-2" y="-2" width="28" height="28" fill="#fff"/><path d="M4 4L20 20" stroke="#000" stroke-width="5" stroke-linecap="round"/></mask></defs><g mask="url(#cut)"><g fill="none" stroke="#eb9a8d" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="3.25" width="6" height="11" rx="3"/><path d="M5.5 11a6.5 6.5 0 0 0 13 0M12 17.5V21M8.5 21H15.5"/></g></g><path d="M4 4L20 20" fill="none" stroke="#eb9a8d" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="36" y="75.6" text-anchor="middle" font-family="Inter, 'Segoe UI', sans-serif" font-size="12" fill="#c3c8ce">Микрофон</text>
+</svg>

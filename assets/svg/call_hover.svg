@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="282" height="52" viewBox="0 0 282 52">
+<title>Позвонить — hover</title>
+<rect width="282" height="52" rx="12" fill="#7dbfac"/>
+<g transform="translate(82.4 15.2) scale(0.9)"><g transform="translate(-0.25 0.25)"><path d="M4.407 2.5H7.4Q8.8 2.5 8.8 3.9V7.6L7.146 9.254A15.2 15.2 0 0 0 14.746 16.854L16.4 15.2H20.1Q21.5 15.2 21.5 16.6V19.593Q21.5 20.993 20.099 20.977A18 18 0 0 1 3.022 3.898Q3.007 2.5 4.407 2.5Z" fill="#0f1c18" stroke="#0f1c18" stroke-width="0.6" stroke-linejoin="round"/></g></g>
+<text x="113.2" y="31.8" font-family="Inter, 'Segoe UI', sans-serif" font-weight="600" font-size="16" fill="#0f1c18">Позвонить</text>
+</svg>

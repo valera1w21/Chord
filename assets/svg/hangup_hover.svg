@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="80" viewBox="0 0 72 80">
+<title>Завершить звонок — hover</title>
+<circle cx="36" cy="28" r="28" fill="#d27869"/>
+<g transform="translate(25 17) scale(0.916667)"><g transform="translate(12 12) scale(0.9341) translate(-12.0004 -10.9903)"><g transform="rotate(135 12 12)"><g transform="translate(-0.25 0.25)"><path d="M4.407 2.5H7.4Q8.8 2.5 8.8 3.9V7.6L7.146 9.254A15.2 15.2 0 0 0 14.746 16.854L16.4 15.2H20.1Q21.5 15.2 21.5 16.6V19.593Q21.5 20.993 20.099 20.977A18 18 0 0 1 3.022 3.898Q3.007 2.5 4.407 2.5Z" fill="#1a0f0d" stroke="#1a0f0d" stroke-width="1.1" stroke-linejoin="round"/></g></g></g></g>
+<text x="36" y="75.6" text-anchor="middle" font-family="Inter, 'Segoe UI', sans-serif" font-size="12" fill="#c3c8ce">Завершить</text>
+</svg>

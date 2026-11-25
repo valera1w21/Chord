@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+<title>Chord 256x256</title>
+<rect x="16.0" y="16.0" width="224.0" height="224.0" rx="52.0" fill="#1d2024"/><rect x="17.5" y="17.5" width="221.0" height="221.0" rx="50.5" fill="none" stroke="#2f343a" stroke-width="3.0"/>
+<g fill="none" stroke="#6fb3a0" stroke-width="11.0"><circle cx="66.0" cy="128.0" r="24.0"/><circle cx="190.0" cy="128.0" r="24.0"/><path d="M90.0 128.0H166.0" stroke-linecap="round"/></g>
+</svg>
