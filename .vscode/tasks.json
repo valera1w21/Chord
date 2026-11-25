@@ -2,7 +2,7 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "Chord: собрать и запустить",
+      "label": "Chord: build",
       "type": "shell",
       "command": "call \"C:/Program Files/Microsoft Visual Studio/18/Insiders/VC/Auxiliary/Build/vcvarsall.bat\" x64 >nul && (if not exist \"build\" mkdir \"build\") && cl /nologo /W4 /utf-8 /DUNICODE /D_UNICODE /Zi /FS src\\Windows\\*.c /Fobuild\\ /Fdbuild\\ /Fe:build\\chord.exe && echo [OK] build\\chord.exe && build\\chord.exe",
       "options": {
